@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+
+    .thetitle{
+        color: rgb(46, 143, 143);
+        text-align: center;
+        
+    }
+
+    ul{
+        text-align: center;
+    }
+    
+    li{
+        display: inline-block;
+        text-align: center;
+
+    }
+
+   .about{
+    color: blueviolet;
+   }
+
+
+    .img{
+        object-fit: fill;
+    }
+
+
+   
+    .class{
+        color: chartreuse;
+        display: inline-block;
+    }
+
+    footer{
+        background-color: #e51a4c ;
+    }
+
+   
