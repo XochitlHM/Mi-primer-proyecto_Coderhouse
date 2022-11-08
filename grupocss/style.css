@@ -1,4 +1,4 @@
-* {
+  *{
     margin: 0;
     padding: 0;
     }
@@ -10,11 +10,12 @@
         
     }
 
-    ul{
+    .ul{
         text-align: center;
     }
     
-    li{
+    .navegacion{
+        list-style: none;
         display: inline-block;
         text-align: center;
 
@@ -36,8 +37,10 @@
         display: inline-block;
     }
 
-    footer{
-        background-color: #e51a4c ;
+    .footer{
+        background-color: #e51a4c;
+        list-style: none;
+        display: inline-block;
     }
 
    
