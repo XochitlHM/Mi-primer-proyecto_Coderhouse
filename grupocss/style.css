@@ -1,46 +1,13 @@
   *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     }
 
-
-    .thetitle{
-        color: rgb(46, 143, 143);
-        text-align: center;
-        
-    }
-
-    .ul{
-        text-align: center;
-    }
-    
-    .navegacion{
-        list-style: none;
-        display: inline-block;
-        text-align: center;
-
-    }
-
-   .about{
-    color: blueviolet;
+   .class{
+    background-color: brown;
+    background-size: cover;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-color: black;
    }
 
-
-    .img{
-        object-fit: fill;
-    }
-
-
-   
-    .class{
-        color: chartreuse;
-        display: inline-block;
-    }
-
-    .footer{
-        background-color: #e51a4c;
-        list-style: none;
-        display: inline-block;
-    }
-
-   
